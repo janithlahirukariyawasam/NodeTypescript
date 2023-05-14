@@ -96,6 +96,7 @@ This project was inspired by [node-express-typescript-boilerplate](https://githu
 # scholarx-backend
 This is the backend of the ScholarX
 
+
 ## Contribution
 
 #### Want to contribute to this project? 
@@ -104,12 +105,14 @@ This is the backend of the ScholarX
 
 Read: [Development Best Practices at SEF](https://handbook.sefglobal.org/engineering-team/team)
 
+
 ## Prerequisites
 
 To use this project, you need to have the following installed on your machine:
 
 - Node.js (version 14 or later)
 - npm (version 6 or later)
+
 
 ## Getting started
 
@@ -134,6 +137,7 @@ To get started, follow these steps:
    ```
 
 4. Open your web browser and navigate to `http://localhost:3000`. 
+
 
 ## Project structure
 
